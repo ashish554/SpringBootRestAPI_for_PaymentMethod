@@ -1,0 +1,26 @@
+[
+    {
+        "methodName": "card",
+        "description": "Credit Card Payment",
+        "ban": 1111,
+        "ifscCode":"SBI1111"
+    },
+    {
+        "methodName": "checking",
+        "description": "Checking Payment",
+        "ban": 2222,
+        "ifscCode":"SBI2222"
+    },
+    {
+        "methodName": "savings",
+        "description": "Savings Payment",
+        "ban": 3333,
+        "ifscCode":"SBI3333"
+    },
+    {
+        "methodName": "upi",
+        "description": "UPI Payment",
+        "ban": 4444,
+        "ifscCode":"SBI4444"
+    }
+]
